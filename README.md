@@ -73,15 +73,10 @@ The PCOS classification model is trained using the scikit-learn library in Pytho
 
 The following Python libraries are required to run the PCOS classification model:
 
-- scikit-learn
+- sklearn
 - pandas
 - numpy
 
-Install the required dependencies using the following command:
-
-```bash
-pip install scikit-learn pandas numpy
-```
 
 ## Usage
 
@@ -114,10 +109,5 @@ The PCOS classification model developed in this project demonstrates the potenti
 - Deployment of the model as a web application or API for easy access and usage.
 - Collaboration with medical professionals to validate the model's predictions and refine its performance.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to contribute, modify, or use this project as a starting point for your own PCOS classification model.
-
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
