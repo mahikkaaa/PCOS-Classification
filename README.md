@@ -69,6 +69,22 @@ The PCOS classification model is trained using the scikit-learn library in Pytho
 
 7. Hyperparameter tuning: Fine-tuning of the model's hyperparameters may be performed to optimize its performance. Techniques such as cross-validation or grid search can be employed to find the best combination of hyperparameters.
 
+## Machine Learning Models
+We will first import all the libraries required for creating the models, such as SkLearn, Numpy, and Pandas.
+In this dataset we have a mixture of category and numerical data in the dataset. We need to transform the categorical data into numerical data in order to create prediction models.
+
+After conversion we'll build the classification models using the following:
+### Linear Models
+  1. Logistic Regression (accuracy - 0.84)
+  2. SVM (accuracy - 0.67)
+
+### Non Linear Models
+  1. Guassian Naive Bayes (accuracy - 0.83)
+  2. Random Forest Classifier (accuracy - 0.88)
+  3. K Neighbors Neighbor Classifier (accuracy - 0.67)
+  4. Decision Tree Classifier (accuracy - 0.80)
+  5. XGBoost Classifier (accuracy - 0.86)
+
 ## Dependencies
 
 The following Python libraries are required to run the PCOS classification model:
