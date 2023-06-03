@@ -6,6 +6,9 @@ This project aims to develop a machine learning model to classify the presence o
 
 The dataset used for this project can be found at [PCOS Dataset](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos). It contains records of patients diagnosed with PCOS and their corresponding attributes.
 
+Link to my Kaggle Notebook : https://www.kaggle.com/code/mahikkaaa/pcos-prediction-and-analysis
+Link to the dataset : https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
+
 ## The dataset consists of the following columns:
 - Patient File No. : This is the report number which has data for a particular patient
 - PCOS : Polycystic ovary syndrome (PCOS) is a hormonal disorder common among women of reproductive age, we would like to determine whether the patient has this syndrome or not
